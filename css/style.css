@@ -81,8 +81,8 @@ select{
 {
     .hero{
         width: 100%;
-        flex: none;
-        
+        justify-content: flex-start;
+        align-items: flex-start; 
     }
     textarea{
         width: 60%;
