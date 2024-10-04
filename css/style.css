@@ -77,10 +77,11 @@ select{
     background-position-x:420px ;
     background-position-y:20px ;
 }
-@media (max-width:600px) 
+@media(max-width:600px) 
 {
     .hero{
         width: 100%;
+        flex: none;
         
     }
     textarea{
