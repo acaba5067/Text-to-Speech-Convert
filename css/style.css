@@ -80,7 +80,8 @@ select{
 @media (max-width:600px) 
 {
     .hero{
-        width: 100%;
+        width: 90%;
+        margin: auto;
     }
     
 }
