@@ -89,6 +89,7 @@ select{
     select{
         display: block;
         width: 60%;
+        flex:none;
     }
     button{
         display: block;
