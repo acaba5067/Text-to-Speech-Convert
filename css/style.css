@@ -81,18 +81,13 @@ select{
 {
     .hero{
         width: 100%;
-    
+        
     }
     textarea{
         width: 60%;
     }
     select{
-        display: inline-block;
         width: 60%;
         flex:none;
     }
-    button{
-        display: inline-block;
-    }
-    
 }
