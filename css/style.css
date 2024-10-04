@@ -81,14 +81,11 @@ select{
 {
     .hero{
         width: 100%;
-        justify-content: flex-start;
-        align-items: flex-start; 
     }
     textarea{
         width: 60%;
     }
     select{
         width: 60%;
-        flex:none;
     }
 }
